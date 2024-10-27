@@ -1,0 +1,2 @@
+# sympletory
+Simple Inventory Management
